@@ -1,4 +1,4 @@
-package oOPS;
+package oOPsConcepts;
 
 /*
  * Java Encapsulation is a way of hiding the implementation details of a class from outside access and only exposing a public interface that can be used to interact with the class.

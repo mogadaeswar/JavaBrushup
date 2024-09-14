@@ -1,8 +1,8 @@
-package oOPS;
+package oOPsConcepts;
 
 public class Animal {
 	
-	private String type;
+	protected String type;
 	private String size;
 	private double weight;
 	
@@ -18,7 +18,7 @@ public class Animal {
 
 	@Override
 	public String toString() {
-		return "Animal [type=" + type + ", "
+		return " Animal [type=" + type + ", "
 				+ "size=" + size + ", "
 						+ "weight=" + weight + "]";
 	}

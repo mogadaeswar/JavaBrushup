@@ -1,4 +1,4 @@
-package oOPS;
+package oOPsConcepts;
 
 public class Topic2Constructor {
 

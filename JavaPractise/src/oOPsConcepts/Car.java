@@ -1,4 +1,4 @@
-package oOPS;
+package oOPsConcepts;
 
 /*
  * this class file is to describe about encapsulation in java
